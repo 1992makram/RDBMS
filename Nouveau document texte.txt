@@ -1,0 +1,44 @@
+
+MySQL is a relational database management system (RDBMS) based on the SQL (Structured Query Language) queries.
+ It is one of the most popular languages for accessing and managing the records in the table. MySQL is open-source and free software under the GNU license.
+ Oracle Company supports it.
+
+The following are the most important features of MySQL:
+
+*)Relational Database Management System (RDBMS):
+*)Easy to use
+*)It is secure
+*)Client/ Server Architecture
+*)Speed
+*)High Flexibility
+*)Compatible on many operating systems
+*)High Performance
+*)High Productivity
+
+
+
+PostgreSQL is a popular relational database management system (RDBMS).
+ Our PostgreSQL tutorial provides basic and advanced concepts of PostgreSQL. In this tutorial, we are going to learn all the topics of PostgreSQL language,
+ such as create a database, drop a database, select database, select table, update a record, create a table, delete record, drop table, triggers, functions,
+ insert the record, procedures, cursors, etc.
+We are also going to provide PostgreSQL interview questions and quizzes to help you better understand the PostgreSQL language.
+This tutorial will help us to understand all the primary features of PostgreSQL, also provides a knowledge on how to use PostgreSQL.
+
+
+
+
+
+SQL Server Tutorial provides basic and advanced concepts of SQL Server. Our SQL Server Tutorial is designed for beginners and professionals both.
+SQL Server is software (A Relational Database Management System) developed by Microsoft. It is also called MS SQL Server. 
+It is implemented from the specification of RDBMS.
+Our SQL Server Tutorial includes all topics of SQL Server such as SQL Server tutorial with SQL Server, install visual studio, install SQL Server,
+ architecture, management studio, datatypes, db operations, login database, create database, select database, drop database, create table, delete tabel,
+ update table, min function, max function, sum function, sql operators, advance operator, clauses, create view, keys constraints and indexes, primary keys, 
+foreign keys,indexes etc.
+
+
+
+Which is better MySQL or PostgreSQL or SQL Server?
+Both PostgreSQL and MySQL are time-proven solutions that can compete with enterprise solutions such as Oracle and SQL Server.
+ MySQL has been famous for its ease of use and speed, while PostgreSQL has many more advanced features,
+ which is the reason that PostgreSQL is often described as an open-source version of Oracle.
